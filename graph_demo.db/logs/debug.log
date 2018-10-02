@@ -1,0 +1,72 @@
+2018-10-02 03:23:33.782+0000 INFO [o.n.k.i.s.f.RecordFormatSelector] Record format not configured, selected default: RecordFormat:StandardV3_4[v0.A.9]
+2018-10-02 03:23:38.342+0000 INFO [o.n.k.i.s.DynamicArrayStore] Rebuilding id generator for[graph_demo.db\neostore.nodestore.db.labels] ...
+2018-10-02 03:23:38.452+0000 INFO [o.n.k.i.s.DynamicArrayStore] [graph_demo.db\neostore.nodestore.db.labels] high id=1 (defragged=0)
+2018-10-02 03:23:38.452+0000 INFO [o.n.k.i.s.DynamicArrayStore] graph_demo.db\neostore.nodestore.db.labels rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:38.452+0000 INFO [o.n.k.i.s.NodeStore] Rebuilding id generator for[graph_demo.db\neostore.nodestore.db] ...
+2018-10-02 03:23:38.562+0000 INFO [o.n.k.i.s.NodeStore] [graph_demo.db\neostore.nodestore.db] high id=0 (defragged=0)
+2018-10-02 03:23:38.562+0000 INFO [o.n.k.i.s.NodeStore] graph_demo.db\neostore.nodestore.db rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:38.562+0000 INFO [o.n.k.i.s.DynamicStringStore] Rebuilding id generator for[graph_demo.db\neostore.propertystore.db.index.keys] ...
+2018-10-02 03:23:38.717+0000 INFO [o.n.k.i.s.DynamicStringStore] [graph_demo.db\neostore.propertystore.db.index.keys] high id=1 (defragged=0)
+2018-10-02 03:23:38.717+0000 INFO [o.n.k.i.s.DynamicStringStore] graph_demo.db\neostore.propertystore.db.index.keys rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:38.717+0000 INFO [o.n.k.i.s.PropertyKeyTokenStore] Rebuilding id generator for[graph_demo.db\neostore.propertystore.db.index] ...
+2018-10-02 03:23:38.827+0000 INFO [o.n.k.i.s.PropertyKeyTokenStore] [graph_demo.db\neostore.propertystore.db.index] high id=0 (defragged=0)
+2018-10-02 03:23:38.828+0000 INFO [o.n.k.i.s.PropertyKeyTokenStore] graph_demo.db\neostore.propertystore.db.index rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:38.938+0000 INFO [o.n.k.i.s.DynamicStringStore] Rebuilding id generator for[graph_demo.db\neostore.propertystore.db.strings] ...
+2018-10-02 03:23:39.072+0000 INFO [o.n.k.i.s.DynamicStringStore] [graph_demo.db\neostore.propertystore.db.strings] high id=1 (defragged=0)
+2018-10-02 03:23:39.072+0000 INFO [o.n.k.i.s.DynamicStringStore] graph_demo.db\neostore.propertystore.db.strings rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:39.072+0000 INFO [o.n.k.i.s.DynamicArrayStore] Rebuilding id generator for[graph_demo.db\neostore.propertystore.db.arrays] ...
+2018-10-02 03:23:39.204+0000 INFO [o.n.k.i.s.DynamicArrayStore] [graph_demo.db\neostore.propertystore.db.arrays] high id=1 (defragged=0)
+2018-10-02 03:23:39.205+0000 INFO [o.n.k.i.s.DynamicArrayStore] graph_demo.db\neostore.propertystore.db.arrays rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:39.205+0000 INFO [o.n.k.i.s.PropertyStore] Rebuilding id generator for[graph_demo.db\neostore.propertystore.db] ...
+2018-10-02 03:23:39.315+0000 INFO [o.n.k.i.s.PropertyStore] [graph_demo.db\neostore.propertystore.db] high id=0 (defragged=0)
+2018-10-02 03:23:39.315+0000 INFO [o.n.k.i.s.PropertyStore] graph_demo.db\neostore.propertystore.db rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:39.315+0000 INFO [o.n.k.i.s.RelationshipStore] Rebuilding id generator for[graph_demo.db\neostore.relationshipstore.db] ...
+2018-10-02 03:23:39.436+0000 INFO [o.n.k.i.s.RelationshipStore] [graph_demo.db\neostore.relationshipstore.db] high id=0 (defragged=0)
+2018-10-02 03:23:39.436+0000 INFO [o.n.k.i.s.RelationshipStore] graph_demo.db\neostore.relationshipstore.db rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:39.437+0000 INFO [o.n.k.i.s.DynamicStringStore] Rebuilding id generator for[graph_demo.db\neostore.relationshiptypestore.db.names] ...
+2018-10-02 03:23:39.548+0000 INFO [o.n.k.i.s.DynamicStringStore] [graph_demo.db\neostore.relationshiptypestore.db.names] high id=1 (defragged=0)
+2018-10-02 03:23:39.548+0000 INFO [o.n.k.i.s.DynamicStringStore] graph_demo.db\neostore.relationshiptypestore.db.names rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:39.548+0000 INFO [o.n.k.i.s.RelationshipTypeTokenStore] Rebuilding id generator for[graph_demo.db\neostore.relationshiptypestore.db] ...
+2018-10-02 03:23:39.658+0000 INFO [o.n.k.i.s.RelationshipTypeTokenStore] [graph_demo.db\neostore.relationshiptypestore.db] high id=0 (defragged=0)
+2018-10-02 03:23:39.659+0000 INFO [o.n.k.i.s.RelationshipTypeTokenStore] graph_demo.db\neostore.relationshiptypestore.db rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:39.769+0000 INFO [o.n.k.i.s.DynamicStringStore] Rebuilding id generator for[graph_demo.db\neostore.labeltokenstore.db.names] ...
+2018-10-02 03:23:39.880+0000 INFO [o.n.k.i.s.DynamicStringStore] [graph_demo.db\neostore.labeltokenstore.db.names] high id=1 (defragged=0)
+2018-10-02 03:23:39.880+0000 INFO [o.n.k.i.s.DynamicStringStore] graph_demo.db\neostore.labeltokenstore.db.names rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:39.880+0000 INFO [o.n.k.i.s.LabelTokenStore] Rebuilding id generator for[graph_demo.db\neostore.labeltokenstore.db] ...
+2018-10-02 03:23:39.990+0000 INFO [o.n.k.i.s.LabelTokenStore] [graph_demo.db\neostore.labeltokenstore.db] high id=0 (defragged=0)
+2018-10-02 03:23:39.991+0000 INFO [o.n.k.i.s.LabelTokenStore] graph_demo.db\neostore.labeltokenstore.db rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:40.101+0000 INFO [o.n.k.i.s.SchemaStore] Rebuilding id generator for[graph_demo.db\neostore.schemastore.db] ...
+2018-10-02 03:23:40.212+0000 INFO [o.n.k.i.s.SchemaStore] [graph_demo.db\neostore.schemastore.db] high id=1 (defragged=0)
+2018-10-02 03:23:40.212+0000 INFO [o.n.k.i.s.SchemaStore] graph_demo.db\neostore.schemastore.db rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:40.212+0000 INFO [o.n.k.i.s.RelationshipGroupStore] Rebuilding id generator for[graph_demo.db\neostore.relationshipgroupstore.db] ...
+2018-10-02 03:23:40.323+0000 INFO [o.n.k.i.s.RelationshipGroupStore] [graph_demo.db\neostore.relationshipgroupstore.db] high id=1 (defragged=0)
+2018-10-02 03:23:40.323+0000 INFO [o.n.k.i.s.RelationshipGroupStore] graph_demo.db\neostore.relationshipgroupstore.db rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:40.323+0000 INFO [o.n.k.i.s.MetaDataStore] Rebuilding id generator for[graph_demo.db\neostore] ...
+2018-10-02 03:23:40.433+0000 INFO [o.n.k.i.s.MetaDataStore] [graph_demo.db\neostore] high id=15 (defragged=0)
+2018-10-02 03:23:40.433+0000 INFO [o.n.k.i.s.MetaDataStore] graph_demo.db\neostore rebuild id generator, highId=15 defragged count=0
+2018-10-02 03:23:40.433+0000 INFO [o.n.k.i.s.DynamicStringStore] Rebuilding id generator for[graph_demo.db\temp.neostore.propertystore.db.index.keys] ...
+2018-10-02 03:23:40.566+0000 INFO [o.n.k.i.s.DynamicStringStore] [graph_demo.db\temp.neostore.propertystore.db.index.keys] high id=1 (defragged=0)
+2018-10-02 03:23:40.566+0000 INFO [o.n.k.i.s.DynamicStringStore] graph_demo.db\temp.neostore.propertystore.db.index.keys rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:40.566+0000 INFO [o.n.k.i.s.PropertyKeyTokenStore] Rebuilding id generator for[graph_demo.db\temp.neostore.propertystore.db.index] ...
+2018-10-02 03:23:40.677+0000 INFO [o.n.k.i.s.PropertyKeyTokenStore] [graph_demo.db\temp.neostore.propertystore.db.index] high id=0 (defragged=0)
+2018-10-02 03:23:40.677+0000 INFO [o.n.k.i.s.PropertyKeyTokenStore] graph_demo.db\temp.neostore.propertystore.db.index rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:40.788+0000 INFO [o.n.k.i.s.DynamicStringStore] Rebuilding id generator for[graph_demo.db\temp.neostore.propertystore.db.strings] ...
+2018-10-02 03:23:40.899+0000 INFO [o.n.k.i.s.DynamicStringStore] [graph_demo.db\temp.neostore.propertystore.db.strings] high id=1 (defragged=0)
+2018-10-02 03:23:40.899+0000 INFO [o.n.k.i.s.DynamicStringStore] graph_demo.db\temp.neostore.propertystore.db.strings rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:40.899+0000 INFO [o.n.k.i.s.DynamicArrayStore] Rebuilding id generator for[graph_demo.db\temp.neostore.propertystore.db.arrays] ...
+2018-10-02 03:23:41.029+0000 INFO [o.n.k.i.s.DynamicArrayStore] [graph_demo.db\temp.neostore.propertystore.db.arrays] high id=1 (defragged=0)
+2018-10-02 03:23:41.029+0000 INFO [o.n.k.i.s.DynamicArrayStore] graph_demo.db\temp.neostore.propertystore.db.arrays rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:41.029+0000 INFO [o.n.k.i.s.PropertyStore] Rebuilding id generator for[graph_demo.db\temp.neostore.propertystore.db] ...
+2018-10-02 03:23:41.149+0000 INFO [o.n.k.i.s.PropertyStore] [graph_demo.db\temp.neostore.propertystore.db] high id=0 (defragged=0)
+2018-10-02 03:23:41.149+0000 INFO [o.n.k.i.s.PropertyStore] graph_demo.db\temp.neostore.propertystore.db rebuild id generator, highId=0 defragged count=0
+2018-10-02 03:23:41.149+0000 INFO [o.n.k.i.s.RelationshipGroupStore] Rebuilding id generator for[graph_demo.db\temp.neostore.relationshipgroupstore.db] ...
+2018-10-02 03:23:41.264+0000 INFO [o.n.k.i.s.RelationshipGroupStore] [graph_demo.db\temp.neostore.relationshipgroupstore.db] high id=1 (defragged=0)
+2018-10-02 03:23:41.264+0000 INFO [o.n.k.i.s.RelationshipGroupStore] graph_demo.db\temp.neostore.relationshipgroupstore.db rebuild id generator, highId=1 defragged count=0
+2018-10-02 03:23:41.270+0000 WARN [o.n.k.i.s.MetaDataStore] Missing counts store, rebuilding it.
+2018-10-02 03:23:41.365+0000 WARN [o.n.k.i.s.MetaDataStore] Counts store rebuild completed.
+2018-10-02 03:23:41.384+0000 INFO [o.n.u.i.b.ImportLogic] Import starting
+2018-10-02 03:23:43.354+0000 INFO [o.n.k.i.s.c.CountsTracker] Rotated counts store at transaction 1 to [graph_demo.db\neostore.counts.db.b], from [graph_demo.db\neostore.counts.db.a].
+2018-10-02 03:23:43.474+0000 INFO [o.n.u.i.b.ImportLogic] Import completed successfully, took 2s 39ms. Imported:
+  6190 nodes
+  3038 relationships
+  42354 properties
