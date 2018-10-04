@@ -62,4 +62,4 @@ python neo4j_nodes_edges.py
 1. 这个项目主要参照`shuang0420的knowledge_graph_demo`的思路走，在数据方面的一些问题，如文件`medicine_company_list.txt`的来源未知，准确率和覆盖率没有细究，所以在导入neo4j数据库的时候提示出现了一堆`referring to missing node`的错误，不过对其他导入的结点不影响，就没有纠结这个地方。
 2. 爬虫爬取的数据包括公司信息，个人信息及管理关系，还有公司的公告信息，这里存入neo4j只考虑了公司和个人的管理关系，因为对公告的处理涉及到自然语言技术，所以暂时没有考虑，造成的结果就是每个公司（包括其管理人员）都是孤立的结点。  
 3. 使用neo4j_import.bat将数据导入neo4j数据库时有可能出现乱码现象，需要将data目录下的三个文件转换为`utf-8无BOM编码`  
-4. neo4j需要安装[服务器版本](https://neo4j.com/download-center/#releases)，才能使用`neo4j_import.bat`文件中的`neo4j-import`命令,安装详见[neo4j W3Cschool教程 Zip环境设置章节](https://www.w3cschool.cn/neo4j/neo4j_zip_environment_setup.html)
+4. neo4j需要安装[Community Server版本](https://neo4j.com/download-center/#releases)，才能使用`neo4j_import.bat`文件中的`neo4j-import`命令,安装详见[neo4j W3Cschool教程 Zip环境设置章节](https://www.w3cschool.cn/neo4j/neo4j_zip_environment_setup.html)
